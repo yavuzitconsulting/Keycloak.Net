@@ -1,3 +1,6 @@
+This is an updated fork of the original package by Luk Vermeulen.
+
+
 ![Icon](https://i.imgur.com/eEjfRLz.jpg?2)
 # Keycloak.Net 
 [![Build status](https://ci.appveyor.com/api/projects/status/c9npduu2dp9ljlps?svg=true)](https://ci.appveyor.com/project/lvermeulen/keycloak-net)
