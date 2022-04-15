@@ -9,7 +9,7 @@ This is an updated fork of the original package by Luk Vermeulen.
 
 C# client for [Keycloak](https://www.keycloak.org/) 6.x
 
-See documentation at [https://www.keycloak.org/docs-api/6.0/rest-api/](https://www.keycloak.org/docs-api/6.0/rest-api/)
+See documentation at [https://www.keycloak.org/docs-api/15.0/rest-api/index.html](https://www.keycloak.org/docs-api/15.0/rest-api/index.html)
 
 ## Features
 * [X] Attack Detection
